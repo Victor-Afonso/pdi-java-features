@@ -1,4 +1,4 @@
-package java17;
+package org.example.java17;
 
 import java.util.ArrayList;
 

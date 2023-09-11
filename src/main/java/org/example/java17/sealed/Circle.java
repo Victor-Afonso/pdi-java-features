@@ -1,4 +1,6 @@
-package java17.sealed;
+package org.example.java17.sealed;
+
+import java.awt.*;
 
 final class Circle extends Shape {
     private double radius;

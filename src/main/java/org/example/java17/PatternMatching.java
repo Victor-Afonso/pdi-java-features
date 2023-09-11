@@ -1,4 +1,4 @@
-package java17;
+package org.example.java17;
 
 public class PatternMatching {
     public static void main(String[] args) {

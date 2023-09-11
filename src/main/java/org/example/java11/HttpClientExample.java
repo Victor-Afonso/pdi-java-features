@@ -1,4 +1,4 @@
-package java11;
+package org.example.java11;
 
 import java.net.URI;
 import java.net.http.HttpClient;

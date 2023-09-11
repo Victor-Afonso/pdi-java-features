@@ -1,4 +1,4 @@
-package java17;
+package org.example.java17;
 
 public class SwitchExpressions {
     public static void main(String[] args) {

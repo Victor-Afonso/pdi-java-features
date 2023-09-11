@@ -1,4 +1,4 @@
-package java11;
+package org.example.java11;
 
 public class StringMethods {
     public static void main(String[] args) {
